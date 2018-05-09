@@ -3,4 +3,10 @@ This is orginal
 This is 2nd change
 Also this is part of the 2nd change
 
+<<<<<<< HEAD
+This will be the third change
+=======
 This is changes made in the GITHub website
+>>>>>>> 83be1ff560d2cc43d85e6b580d689f05c75b7087
+
+4th change
